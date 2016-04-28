@@ -6,8 +6,8 @@
             Version="1.0.0.0" />
 
   <Properties>
-    <DisplayName>FPCL.Windows8.Windows</DisplayText>
-    <PublisherDisplayName>joaqu</PublisherDisplayText>
+    <DisplayName>FPCL.Windows8.Windows</DisplayName>
+    <PublisherDisplayName>AnimaDevoratum</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
