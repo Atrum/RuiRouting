@@ -32,9 +32,9 @@ http://cakebuild.net
 Param(
     [string]$Script = "build.cake",
     [string]$Target = "Default",
-    [string]$Configuration = "Release",
+    [string]$Configuration = "Debug",
     [ValidateSet("Quiet", "Minimal", "Normal", "Verbose", "Diagnostic")]
-    [string]$Verbosity = "Verbose",
+    [string]$Verbosity = "Quiet",
     [switch]$Experimental,
     [Alias("DryRun","Noop")]
     [switch]$WhatIf,
